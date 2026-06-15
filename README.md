@@ -1,17 +1,27 @@
 # Hi, I'm Maurycy
 
-AI-assisted developer building web products, tools, and practical software with TypeScript, React, Next.js, FastAPI, and PostgreSQL.
+AI-assisted developer building web products, tools, and practical software with TypeScript, React, Python, and strong engineering foundations.
 
 I enjoy turning early ideas into working products: designing flows, building interfaces, wiring APIs, shaping data models, and adding tests so the project can keep growing without falling apart.
 
 ## Current focus
 
-- AI-assisted product development
-- TypeScript, React, Next.js, FastAPI, PostgreSQL
-- Marketplaces, booking systems, admin panels, and automation tools
-- Open-source contributions and small, reviewable pull requests
+- AI engineering and AI-assisted product development
+- Strong software engineering foundations: data models, APIs, testing, architecture, and maintainability
+- TypeScript, React, Next.js, Python, FastAPI, PostgreSQL
+- Forward Deployed Engineering: turning messy business needs into working software close to users
+- Marketplace, booking, admin, and CRM/ERP-like workflows
+- Automation, evaluation harnesses, and practical developer tooling
+- Business-aware engineering focused on useful products, speed, and measurable value
+
+
 
 ## Selected work
+
+### Kiddosy / KidOS
+
+Kiddosy is a marketplace and booking platform for children's activities. It includes parent, organizer, and admin workflows across activity discovery, onboarding, offers, reservations, payments, invoices, attendance, waitlists, messaging, and dashboards.
+
 
 ### Open Mercato contributor
 
@@ -22,9 +32,6 @@ I have contributed small product fixes to Open Mercato, an open-source AI-engine
 - Reported and followed through on reproducible product bugs via GitHub issues.
 - Listed as a contributor in the Open Mercato v0.6.5 release.
 
-### Kiddosy / KidOS
-
-Kiddosy is a marketplace and booking platform for children's activities. It includes parent, organizer, and admin workflows across activity discovery, onboarding, offers, reservations, payments, invoices, attendance, waitlists, messaging, and dashboards.
 
 Stack:
 
