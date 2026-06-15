@@ -16,12 +16,15 @@ I enjoy turning early ideas into working products: designing flows, building int
 
 
 
-## Selected work
-
 ### Kiddosy / KidOS
 
 Kiddosy is a marketplace and booking platform for children's activities. It includes parent, organizer, and admin workflows across activity discovery, onboarding, offers, reservations, payments, invoices, attendance, waitlists, messaging, and dashboards.
 
+Stack:
+
+- Frontend: Next.js, React, TypeScript, Tailwind CSS, Zustand, Radix UI
+- Backend: FastAPI, PostgreSQL, SQLAlchemy async, Redis, Stripe, Alembic
+- Quality: pytest, Vitest, Playwright E2E, type checking, linting
 
 ### Open Mercato contributor
 
@@ -31,13 +34,6 @@ I have contributed small product fixes to Open Mercato, an open-source AI-engine
 - Aligned customer seed data with dictionary values.
 - Reported and followed through on reproducible product bugs via GitHub issues.
 - Listed as a contributor in the Open Mercato v0.6.5 release.
-
-
-Stack:
-
-- Frontend: Next.js, React, TypeScript, Tailwind CSS, Zustand, Radix UI
-- Backend: FastAPI, PostgreSQL, SQLAlchemy async, Redis, Stripe, Alembic
-- Quality: pytest, Vitest, Playwright E2E, type checking, linting
 
 ## Links
 
